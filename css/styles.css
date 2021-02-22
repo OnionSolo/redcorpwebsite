@@ -1,0 +1,60 @@
+/*Developed By RedCorp*/
+
+/*Text Types*/
+
+#title {
+	color: white;
+	font-size: 80px;
+	text-align: center;
+	background-color: black;
+	margin: 0px 120px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: Lucida Console;
+}
+
+#subtitle {
+	color: #000000;
+	font-family: Lucida Console;
+	text-align: center;
+	font-size: 35px
+	
+}
+
+.normaltxt {
+	color: #000000;
+	font-family: Lucida Console;
+	font-size: 32px;
+	text-align: center;
+}
+
+/*Nav*/
+
+#customnav {
+	text-align: center;
+	text-decoration-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	font-family: Lucida Console;
+	background-color: black;
+	margin: 0px 120px;
+	font-size: 30px;
+}
+
+.column{
+	background: black;
+	font-family: Lucida Console;
+	color: white;
+	font-size: 55px;
+	text-align: center;
+	padding: 20px
+
+
+}
+
+.sectioncust{
+	display: flex;
+	text-align: center;
+	margin: 0px 120px;
+}
